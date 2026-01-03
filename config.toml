@@ -2,6 +2,3 @@ baseURL = 'https://abseren109.github.io/blog/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 Theme = “hugo-profile”
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
